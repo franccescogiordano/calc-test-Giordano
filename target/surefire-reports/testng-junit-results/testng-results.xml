@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T22:58:24 UYT" name="Surefire suite" finished-at="2022-03-14T22:58:24 UYT" duration-ms="9">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T22:58:24 UYT" name="Surefire test" finished-at="2022-03-14T22:58:24 UYT" duration-ms="9">
+      <class name="co.com.sofka.app.AppTest">
+        <test-method signature="testApp()[pri:0, instance:testApp(co.com.sofka.app.AppTest)]" started-at="2022-03-14T22:58:24 UYT" name="testApp" finished-at="2022-03-14T22:58:24 UYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- co.com.sofka.app.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
